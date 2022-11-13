@@ -1,44 +1,11 @@
-# 🎨🎨Let's Draw
+# Let's Draw
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
+<p>
+<img src="https://user-images.githubusercontent.com/68896404/201500945-ad813953-08aa-4c78-a2ab-eb8c40a8392e.png" height="400"/>
+<img src="https://user-images.githubusercontent.com/68896404/201500957-da1f4df8-0b89-4bf4-ab64-3ced6af07e2f.png" height="400"/>
 
-A simple drawing app made with Flutter
-Try out the DEMO here
-[Link to Demo](https://letsdraw.jideguru.dev/)
-
-<img src="assets/screenshots/ss2.png" height="400"/>
-
-## 💻 Requirements
-
-- Any Operating System (ie. MacOS X, Linux, Windows)
-- Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
-- A little knowledge of Dart and Flutter
-
-## ✨ Features
-
-#### Available Features
-
-- [x] Scribble.
-- [x] Draw Shapes (Line, Polygon, Ellipse and Rectangle).
-- [x] Eraser.
-- [x] Undo and Redo
-- [x] Export as Image
-
-#### Features to Explore
-
-- [ ] Canvas Zoom/Scroll.
-- [ ] Perfect circle option and Polygon rotation.
-- [ ] Move doodle and shapes around the canvas
-
-## 📸 ScreenShots
-
-<img src="assets/screenshots/ss1.png"/>
-
-## 🤓 Author(s)
-
-**Olusegun Festus Babajide**
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
-
-## 🔖 LICENCE
-
-[Apache-2.0](https://github.com/JideGuru/FlutterEbookApp/blob/master/LICENSE)
+</p>
+<p>
+<img src="https://user-images.githubusercontent.com/68896404/201500961-794700b8-7a82-4841-8e72-2c4466d000d7.png" height="400"/>
+<img src="https://user-images.githubusercontent.com/68896404/201500966-9265ea5a-56de-48ea-9a75-f6b5306eef26.png" height="400"/>
+</p>
